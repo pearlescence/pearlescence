@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pearlescence
-- 👀 I’m interested in knitting, swimming and coding
+- 👀 I’m interested in knitting, swimming and <em> coding </em>
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
